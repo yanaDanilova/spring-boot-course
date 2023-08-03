@@ -1,10 +1,10 @@
-package com.in28minutes.springboot.learnspringboot;
+package com.learnIn28MinutenCourse.springbootcourse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnSpringBootApplicationTests {
+class SpringBootCourseApplicationTests {
 
 	@Test
 	void contextLoads() {
